@@ -47,7 +47,7 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/AbhishekNavgan95/Currency-Converter-using-react.git
+   git clone https://github.com/Manirajkumar1/Currency-Converter-using-react.git
    cd Currency-Converter-using-react
    npm install
    npm start
